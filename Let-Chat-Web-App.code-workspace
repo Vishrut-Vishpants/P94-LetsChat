@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../kwitter"
+		},
+		{
+			"path": "../C94_practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Let-Chat-Web-App"
+	}
+}
